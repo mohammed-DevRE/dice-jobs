@@ -1,0 +1,2 @@
+# One LinkedIn search-result URL per line
+
