@@ -1,0 +1,2 @@
+# One Dice search-result URL per line
+
