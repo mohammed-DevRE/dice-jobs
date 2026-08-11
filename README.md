@@ -1,3 +1,14 @@
+# Sabeelullah Mohammed - Latest Resume
+
+Senior SRE / DevOps Engineer | Kubernetes | Terraform | AWS/GCP/Azure | CI/CD | Observability | Linux | AWS Certified
+
+- [View latest resume](resume.md)
+- Location: Somerset, NJ
+- Email: mohdsab1525@gmail.com
+- LinkedIn: https://www.linkedin.com/in/k-mohammed-646892217
+
+---
+
 # Human-in-the-loop Job Pipeline
 
 Cloud-ready automation for collecting Dice and LinkedIn job leads, deduplicating them, and presenting them for manual approval. It never submits an application automatically.
@@ -42,4 +53,3 @@ The server needs Docker and the Compose plugin. The deploy job pulls the new ima
 ## Important limitations
 
 Use this only in ways permitted by each site's terms and your account rules. LinkedIn and Dice can change markup at any time, so selectors may need maintenance. This project intentionally does not bypass CAPTCHAs, rate limits, login challenges, or site security.
-
